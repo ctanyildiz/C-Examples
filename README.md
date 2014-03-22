@@ -1,7 +1,8 @@
 C-Examples
 ==========
 
-I am learning write C. When i'm learning, also i want to learn how to command git.
+I am learning write C. 
+While i'm learning C, also i want to learn how to use github.
 In that project you can see some C examples.
 
 
